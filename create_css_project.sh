@@ -17,7 +17,7 @@ touch CSS_advanced/images/pic-person-02.jpg
 touch CSS_advanced/images/pic-person-03.jpg
 
 # Créer les fichiers de style
-for i in {1..24}
+for i in {1..32}
 do
     touch CSS_advanced/styles/${i}-style.css
 done
